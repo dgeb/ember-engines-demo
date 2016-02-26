@@ -37,7 +37,7 @@
     "ember-resolver": "^2.0.3"
   },
   "dependencies": {
-    "ember-engines": "^0.1.2",
+    "ember-engines": "^0.2.0",
     "ember-blog-engine": "dgeb/ember-blog-engine"
   },
   "ember-addon": {
