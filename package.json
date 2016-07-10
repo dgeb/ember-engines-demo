@@ -45,8 +45,7 @@
   },
   "ember-addon": {
     "paths": [
-      "lib/ember-chat-engine",
-      "lib/fake-engine"
+      "lib/ember-chat-engine"
     ]
   }
 }
