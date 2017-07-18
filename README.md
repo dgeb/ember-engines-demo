@@ -1,4 +1,4 @@
-# Ember Engines Demo
+# Ember Engines Demo [![Build Status](https://secure.travis-ci.org/dgeb/ember-engines-demo.png?branch=master)](http://travis-ci.org/dgeb/ember-engines-demo)
 
 This is a simple demo of the
 [ember-engines](https://github.com/ember-engines/ember-engines) addon.
